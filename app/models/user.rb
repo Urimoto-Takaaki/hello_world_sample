@@ -13,7 +13,7 @@ def introduce
     私の名前は#{@f_name} #{@l_name}です
     誕生日は#{@birth}で、#{@age}歳です
     出身地は#{@birth_place}で、趣味は#{@myhobby}です
-
+　　　やっほい
   EOS
 
 end
